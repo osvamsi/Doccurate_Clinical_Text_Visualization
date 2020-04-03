@@ -1,0 +1,1230 @@
+{
+    "name": "Collections",
+    "children": [
+        {
+            "name": "Cardiovascular",
+            "children": [
+                {
+                    "name": "Abnormal heart rhythms, or arrhythmias",
+                    "children": [
+                        {
+                            "name": "breathlessness "
+                        },
+                        {
+                            "name": "dizziness."
+                        },
+                        {
+                            "name": "syncope "
+                        },
+                        {
+                            "name": "fluttering in the chest."
+                        },
+                        {
+                            "name": "chest pain."
+                        },
+                        {
+                            "name": "lightheadedness."
+                        },
+                        {
+                            "name": "sudden weakness."
+                        }
+                    ]
+                },
+                {
+                    "name": "Congenital heart disease",
+                    "children": [
+                        {
+                            "name": "Abnormal heart rhythms "
+                        },
+                        {
+                            "name": "A bluish tint to the skin, lips and fingernails "
+                        },
+                        {
+                            "name": "Shortness of breath"
+                        },
+                        {
+                            "name": "Tiring quickly upon exertion"
+                        },
+                        {
+                            "name": "Swelling of body tissue or organs "
+                        }
+                    ]
+                },
+                {
+                    "name": "Deep vein thrombosis and pulmonary embolism",
+                    "children": [
+                        {
+                            "name": "Pain"
+                        },
+                        {
+                            "name": "Swelling"
+                        },
+                        {
+                            "name": "Warmth"
+                        },
+                        {
+                            "name": "Tenderness"
+                        },
+                        {
+                            "name": "Redness of the leg or arm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Heart failure",
+                    "children": [
+                        {
+                            "name": "Shortness of breath  when you exert yourself or when you lie down."
+                        },
+                        {
+                            "name": "Fatigue and weakness."
+                        },
+                        {
+                            "name": "Swelling in your legs, ankles and feet."
+                        },
+                        {
+                            "name": "Rapid or irregular heartbeat."
+                        },
+                        {
+                            "name": "Reduced ability to exercise."
+                        },
+                        {
+                            "name": "Persistent cough or wheezing with white or pink blood-tinged phlegm"
+                        }
+                    ]
+                },
+                {
+                    "name": "Heart muscle disease",
+                    "children": [
+                        {
+                            "name": "general weakness and fatigue."
+                        },
+                        {
+                            "name": "shortness of breath, particularly during exertion or exercise."
+                        },
+                        {
+                            "name": "lightheadedness and dizziness."
+                        },
+                        {
+                            "name": "chest pain."
+                        },
+                        {
+                            "name": "heart palpitations."
+                        },
+                        {
+                            "name": "fainting attacks."
+                        },
+                        {
+                            "name": "high blood pressure."
+                        },
+                        {
+                            "name": "edema, or swelling, of your feet, ankles, and legs."
+                        }
+                    ]
+                },
+                {
+                    "name": "Pericardial disease",
+                    "children": [
+                        {
+                            "name": "Shortness of breath or difficulty breathing "
+                        },
+                        {
+                            "name": "Discomfort when breathing while lying down "
+                        },
+                        {
+                            "name": "Chest pain, usually behind the breastbone or on the left side of the chest."
+                        },
+                        {
+                            "name": "Chest fullness."
+                        }
+                    ]
+                },
+                {
+                    "name": "Rheumatic heart disease",
+                    "children": [
+                        {
+                            "name": "Fever"
+                        },
+                        {
+                            "name": "Swollen, tender, red and extremely painful joints particularly the knees and ankles"
+                        },
+                        {
+                            "name": "Nodules "
+                        },
+                        {
+                            "name": "Red, raised, lattice-like rash, usually on the chest, back, and abdomen"
+                        },
+                        {
+                            "name": "Shortness of breath and chest discomfort"
+                        },
+                        {
+                            "name": "Uncontrolled movements of arms, legs, or facial muscles"
+                        },
+                        {
+                            "name": "Weakness"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Endocrinology",
+            "children": [
+                {
+                    "name": "Acromegaly",
+                    "children": [
+                        {
+                            "name": "Enlarged hands and feet"
+                        },
+                        {
+                            "name": "Coarsened, enlarged facial features"
+                        },
+                        {
+                            "name": "Coarse, oily, thickened skin"
+                        },
+                        {
+                            "name": "Excessive sweating and body odor"
+                        },
+                        {
+                            "name": "Small outgrowths of skin tissue "
+                        },
+                        {
+                            "name": "Fatigue and muscle weakness"
+                        },
+                        {
+                            "name": "A deepened, husky voice due to enlarged vocal cords and sinuses"
+                        },
+                        {
+                            "name": "Severe snoring due to obstruction of the upper airway"
+                        },
+                        {
+                            "name": "Impaired vision"
+                        },
+                        {
+                            "name": "Headaches"
+                        },
+                        {
+                            "name": "Enlarged tongue"
+                        },
+                        {
+                            "name": "Pain and limited joint mobility"
+                        },
+                        {
+                            "name": "Menstrual cycle irregularities in women"
+                        },
+                        {
+                            "name": "Erectile dysfunction in men"
+                        },
+                        {
+                            "name": "Enlarged organs, such as the heart"
+                        },
+                        {
+                            "name": "Loss of interest in sex"
+                        }
+                    ]
+                },
+                {
+                    "name": "Adrenal Cancer",
+                    "children": [
+                        {
+                            "name": "Weight gain"
+                        },
+                        {
+                            "name": "Muscle weakness"
+                        },
+                        {
+                            "name": "Pink or purple stretch marks on the skin"
+                        },
+                        {
+                            "name": "Hormone changes in women that might cause excess facial hair, hair loss on the head and irregular periods"
+                        },
+                        {
+                            "name": "Hormone changes in men that might cause enlarged breast tissue and shrinking testicles"
+                        },
+                        {
+                            "name": "Nausea"
+                        },
+                        {
+                            "name": "Vomiting"
+                        },
+                        {
+                            "name": "Abdominal bloating"
+                        },
+                        {
+                            "name": "Back pain"
+                        },
+                        {
+                            "name": "Fever"
+                        },
+                        {
+                            "name": "Loss of appetite"
+                        },
+                        {
+                            "name": "Loss of weight without trying"
+                        }
+                    ]
+                },
+                {
+                    "name": "Anaplastic Thyroid Cancer",
+                    "children": [
+                        {
+                            "name": "A lump that can be felt through the skin on your neck"
+                        },
+                        {
+                            "name": "Changes to your voice, including increasing hoarseness"
+                        },
+                        {
+                            "name": "Difficulty swallowing"
+                        },
+                        {
+                            "name": "Pain in your neck and throat"
+                        },
+                        {
+                            "name": "Swollen lymph nodes in your neck"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hypoglycemia",
+                    "children": [
+                        {
+                            "name": "Shakiness"
+                        },
+                        {
+                            "name": "Dizziness"
+                        },
+                        {
+                            "name": "Sweating"
+                        },
+                        {
+                            "name": "Hunger"
+                        },
+                        {
+                            "name": "Irritability or moodiness"
+                        },
+                        {
+                            "name": "Anxiety or nervousness"
+                        },
+                        {
+                            "name": "Headache"
+                        }
+                    ]
+                },
+                {
+                    "name": "Diabetes",
+                    "children": [
+                        {
+                            "name": "Increased thirst"
+                        },
+                        {
+                            "name": "Frequent urination"
+                        },
+                        {
+                            "name": "Extreme hunger"
+                        },
+                        {
+                            "name": "Unexplained weight loss"
+                        },
+                        {
+                            "name": "Presence of ketones in the urine "
+                        },
+                        {
+                            "name": "Fatigue"
+                        },
+                        {
+                            "name": "Irritability"
+                        },
+                        {
+                            "name": "Blurred vision"
+                        },
+                        {
+                            "name": "Slow-healing sores"
+                        },
+                        {
+                            "name": "Frequent infections, such as gums or skin infections and vaginal infections"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gestational Diabetes",
+                    "children": [
+                        {
+                            "name": "Sugar in urine "
+                        },
+                        {
+                            "name": "Unusual thirst."
+                        },
+                        {
+                            "name": "Frequent urination."
+                        },
+                        {
+                            "name": "Fatigue."
+                        },
+                        {
+                            "name": "Nausea."
+                        },
+                        {
+                            "name": "Frequent vaginal, bladder, and skin infections."
+                        },
+                        {
+                            "name": "Blurred vision."
+                        }
+                    ]
+                },
+                {
+                    "name": "Graves' Disease",
+                    "children": [
+                        {
+                            "name": "Anxiety and irritability."
+                        },
+                        {
+                            "name": "A fine tremor of your hands or fingers."
+                        },
+                        {
+                            "name": "Heat sensitivity and an increase in perspiration or warm, moist skin."
+                        },
+                        {
+                            "name": "Weight loss, despite normal eating habits."
+                        },
+                        {
+                            "name": "Enlargement of your thyroid gland"
+                        },
+                        {
+                            "name": "Change in menstrual cycles."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Orthopedic",
+            "children": [
+                {
+                    "name": "Arthritis",
+                    "children": [
+                        {
+                            "name": "Pain"
+                        },
+                        {
+                            "name": "Stiffness"
+                        },
+                        {
+                            "name": "Swelling"
+                        },
+                        {
+                            "name": "Redness"
+                        },
+                        {
+                            "name": "Decreased range of motion"
+                        }
+                    ]
+                },
+                {
+                    "name": "Osteoarthritis",
+                    "children": [
+                        {
+                            "name": "Pain. "
+                        },
+                        {
+                            "name": "Stiffness. "
+                        },
+                        {
+                            "name": "Tenderness."
+                        },
+                        {
+                            "name": "Loss of flexibility."
+                        },
+                        {
+                            "name": "Grating sensation. "
+                        },
+                        {
+                            "name": "Bone spurs. "
+                        },
+                        {
+                            "name": "Swelling."
+                        }
+                    ]
+                },
+                {
+                    "name": "Rheumatoid Arthritis",
+                    "children": [
+                        {
+                            "name": "Tender, warm, swollen joints"
+                        },
+                        {
+                            "name": "Joint stiffness that is usually worse in the mornings and after inactivity"
+                        },
+                        {
+                            "name": "Fatigue, fever and loss of appetite"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hip Fracture",
+                    "children": [
+                        {
+                            "name": "Inability to move immediately after a fall"
+                        },
+                        {
+                            "name": "Severe pain in your hip or groin"
+                        },
+                        {
+                            "name": "Inability to put weight on your leg on the side of your injured hip"
+                        },
+                        {
+                            "name": "Stiffness, bruising and swelling in and around your hip area"
+                        },
+                        {
+                            "name": "Shorter leg on the side of your injured hip"
+                        },
+                        {
+                            "name": "Turning outward of your leg on the side of your injured hip"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bursitis",
+                    "children": [
+                        {
+                            "name": "Feel achy or stiff"
+                        },
+                        {
+                            "name": "Hurt more when you move it or press on it"
+                        },
+                        {
+                            "name": "Look swollen and red"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyphosis",
+                    "children": [
+                        {
+                            "name": "backpain"
+                        },
+                        {
+                            "name": "stiffness in the upper back"
+                        },
+                        {
+                            "name": "a rounded back"
+                        },
+                        {
+                            "name": "tight hamstrings"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cubital Tunnel Syndrome",
+                    "children": [
+                        {
+                            "name": "Numbness and tingling in the hand or ring and little finger, especially when the elbow is bent."
+                        },
+                        {
+                            "name": "Numbness and tingling at night."
+                        },
+                        {
+                            "name": "Hand pain."
+                        },
+                        {
+                            "name": "Weak grip and clumsiness due to muscle weakness in the affected arm and hand."
+                        },
+                        {
+                            "name": "Aching pain on the inside of the elbow."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Respiratory",
+            "children": [
+                {
+                    "name": "Asbestosis",
+                    "children": [
+                        {
+                            "name": "Shortness of breath"
+                        },
+                        {
+                            "name": "A persistent, dry cough"
+                        },
+                        {
+                            "name": "Loss of appetite with weight loss"
+                        },
+                        {
+                            "name": "Fingertips and toes that appear wider and rounder than normal"
+                        },
+                        {
+                            "name": "Chest tightness or pain"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bronchiectasis",
+                    "children": [
+                        {
+                            "name": "chronic daily cough."
+                        },
+                        {
+                            "name": "coughing up blood."
+                        },
+                        {
+                            "name": "abnormal sounds or wheezing in the chest with breathing."
+                        },
+                        {
+                            "name": "shortness of breath."
+                        },
+                        {
+                            "name": "chest pain."
+                        },
+                        {
+                            "name": "coughing up large amounts of thick mucus every day."
+                        },
+                        {
+                            "name": "weight loss."
+                        },
+                        {
+                            "name": "fatigue."
+                        }
+                    ]
+                },
+                {
+                    "name": "Chronic Cough",
+                    "children": [
+                        {
+                            "name": "a feeling of liquid dripping down the back of your throat."
+                        },
+                        {
+                            "name": "heartburn."
+                        },
+                        {
+                            "name": "hoarse voice."
+                        },
+                        {
+                            "name": "runny nose."
+                        },
+                        {
+                            "name": "sore throat."
+                        },
+                        {
+                            "name": "stuffed nose."
+                        },
+                        {
+                            "name": "wheezing."
+                        },
+                        {
+                            "name": "shortness of breath."
+                        }
+                    ]
+                },
+                {
+                    "name": "Common Cold",
+                    "children": [
+                        {
+                            "name": "Runny or stuffy nose."
+                        },
+                        {
+                            "name": "Sore throat."
+                        },
+                        {
+                            "name": "Cough."
+                        },
+                        {
+                            "name": "Congestion."
+                        },
+                        {
+                            "name": "Slight body aches or a mild headache."
+                        },
+                        {
+                            "name": "Sneezing."
+                        },
+                        {
+                            "name": "Low-grade fever."
+                        },
+                        {
+                            "name": "Generally feeling unwell"
+                        }
+                    ]
+                },
+                {
+                    "name": "Croup",
+                    "children": [
+                        {
+                            "name": "Fever"
+                        },
+                        {
+                            "name": "Hoarse voice"
+                        },
+                        {
+                            "name": "Breathing that may be noisy or labored"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hantavirus",
+                    "children": [
+                        {
+                            "name": "dizziness"
+                        },
+                        {
+                            "name": "headaches"
+                        },
+                        {
+                            "name": "nausea"
+                        },
+                        {
+                            "name": "vomiting"
+                        },
+                        {
+                            "name": "diarrhea"
+                        },
+                        {
+                            "name": "abdominal pain"
+                        }
+                    ]
+                },
+                {
+                    "name": "Influenza",
+                    "children": [
+                        {
+                            "name": "Fever over 100.4 F "
+                        },
+                        {
+                            "name": "Aching muscles"
+                        },
+                        {
+                            "name": "Chills and sweats"
+                        },
+                        {
+                            "name": "Headache"
+                        },
+                        {
+                            "name": "Dry, persistent cough"
+                        },
+                        {
+                            "name": "Fatigue and weakness"
+                        },
+                        {
+                            "name": "Nasal congestion"
+                        },
+                        {
+                            "name": "Sore throat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nuerology",
+            "children": [
+                {
+                    "name": "Abulia",
+                    "children": [
+                        {
+                            "name": "loss of productivity, effort, and initiative."
+                        },
+                        {
+                            "name": "emotional indifference."
+                        },
+                        {
+                            "name": "lack of plans and goals."
+                        },
+                        {
+                            "name": "less or absence of speech or action."
+                        },
+                        {
+                            "name": "lack of emotional responses to important life events."
+                        },
+                        {
+                            "name": "less goal-oriented thoughts."
+                        },
+                        {
+                            "name": "diminished social interest."
+                        },
+                        {
+                            "name": "poor attention."
+                        }
+                    ]
+                },
+                {
+                    "name": "Achromatopsia",
+                    "children": [
+                        {
+                            "name": "Amblyopia \u2013 reduced visual acuity."
+                        },
+                        {
+                            "name": "Hemeralopia \u2013 with the subject exhibiting photophobia."
+                        },
+                        {
+                            "name": "Nystagmus."
+                        },
+                        {
+                            "name": "Iris operating abnormalities."
+                        }
+                    ]
+                },
+                {
+                    "name": "Apraxia",
+                    "children": [
+                        {
+                            "name": "Difficulty stringing syllables together in the appropriate order to make words, or inability to do so."
+                        },
+                        {
+                            "name": "Minimal babbling during infancy."
+                        },
+                        {
+                            "name": "Difficulty saying long or complex words."
+                        },
+                        {
+                            "name": "Repeated attempts at pronunciation of words."
+                        }
+                    ]
+                },
+                {
+                    "name": "AIDS \u2013 neurological manifestations",
+                    "children": [
+                        {
+                            "name": "Sudden forgetfulness or confusion."
+                        },
+                        {
+                            "name": "Feeling of weakness that keeps getting worse."
+                        },
+                        {
+                            "name": "Changes in behavior."
+                        },
+                        {
+                            "name": "Headaches."
+                        },
+                        {
+                            "name": "Problems with balance and coordination."
+                        },
+                        {
+                            "name": "Seizures."
+                        },
+                        {
+                            "name": "Changes in your eyesight."
+                        }
+                    ]
+                },
+                {
+                    "name": "Akinetopsia",
+                    "children": [
+                        {
+                            "name": "Headaches. "
+                        },
+                        {
+                            "name": "Fear of dogs."
+                        },
+                        {
+                            "name": "Feelings of vertigo."
+                        },
+                        {
+                            "name": "Difficulty following conversation."
+                        },
+                        {
+                            "name": "Difficulty pouring liquids."
+                        },
+                        {
+                            "name": "Inability to perceive illusion of apparent motion."
+                        }
+                    ]
+                },
+                {
+                    "name": "Ataxia",
+                    "children": [
+                        {
+                            "name": "Poor coordination"
+                        },
+                        {
+                            "name": "Unsteady walk and a tendency to stumble"
+                        },
+                        {
+                            "name": "Difficulty with fine motor tasks, such as eating, writing or buttoning a shirt"
+                        },
+                        {
+                            "name": "Change in speech"
+                        },
+                        {
+                            "name": "Involuntary back-and-forth eye movements "
+                        },
+                        {
+                            "name": "Difficulty swallowing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Aphasia",
+                    "children": [
+                        {
+                            "name": "Speak in short or incomplete sentences"
+                        },
+                        {
+                            "name": "Speak in sentences that don't make sense"
+                        },
+                        {
+                            "name": "Substitute one word for another or one sound for another"
+                        },
+                        {
+                            "name": "Speak unrecognizable words"
+                        },
+                        {
+                            "name": "Not understand other people's conversation"
+                        },
+                        {
+                            "name": "Write sentences that don't make sense"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nephrology",
+            "children": [
+                {
+                    "name": "Abderhalden\u2013Kaufmann\u2013Lignac syndrome",
+                    "children": [
+                        {
+                            "name": "slow growth"
+                        },
+                        {
+                            "name": "excess thirst"
+                        },
+                        {
+                            "name": "dehydration"
+                        },
+                        {
+                            "name": "increased urination"
+                        },
+                        {
+                            "name": "soft bowed bones "
+                        },
+                        {
+                            "name": "sensitivity to light"
+                        }
+                    ]
+                },
+                {
+                    "name": "Abdominal Compartment Syndrome",
+                    "children": [
+                        {
+                            "name": "abdominal distension"
+                        },
+                        {
+                            "name": "insufficient urine production"
+                        },
+                        {
+                            "name": "fast heart rate"
+                        },
+                        {
+                            "name": "low blood pressure"
+                        }
+                    ]
+                },
+                {
+                    "name": "Amyloidosis",
+                    "children": [
+                        {
+                            "name": "Swelling of your ankles and legs"
+                        },
+                        {
+                            "name": "Severe fatigue and weakness"
+                        },
+                        {
+                            "name": "Shortness of breath"
+                        },
+                        {
+                            "name": "Numbness, tingling or pain in your hands or feet, especially pain in your wrist"
+                        },
+                        {
+                            "name": "Diarrhea, possibly with blood, or constipation"
+                        },
+                        {
+                            "name": "Unintentional, significant weight loss"
+                        },
+                        {
+                            "name": "An enlarged tongue"
+                        },
+                        {
+                            "name": "Skin changes, such as thickening or easy bruising, and purplish patches around the eyes"
+                        },
+                        {
+                            "name": "An irregular heartbeat"
+                        },
+                        {
+                            "name": "Difficulty swallowing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Acute Kidney Failure/Acute Kidney Injury",
+                    "children": [
+                        {
+                            "name": "Decreased urine output, although occasionally urine output remains normal"
+                        },
+                        {
+                            "name": "Fluid retention, causing swelling in your legs, ankles or feet"
+                        },
+                        {
+                            "name": "Shortness of breath"
+                        },
+                        {
+                            "name": "Fatigue"
+                        },
+                        {
+                            "name": "Confusion"
+                        },
+                        {
+                            "name": "Nausea"
+                        },
+                        {
+                            "name": "Weakness"
+                        },
+                        {
+                            "name": "Irregular heartbeat"
+                        },
+                        {
+                            "name": "Chest pain or pressure"
+                        },
+                        {
+                            "name": "Seizures or coma in severe cases"
+                        }
+                    ]
+                },
+                {
+                    "name": "Angiomyolipoma ",
+                    "children": [
+                        {
+                            "name": "Sudden pain"
+                        },
+                        {
+                            "name": "Nausea."
+                        },
+                        {
+                            "name": "Vomiting."
+                        },
+                        {
+                            "name": "Anemia."
+                        },
+                        {
+                            "name": "Hypertension."
+                        },
+                        {
+                            "name": "Chronic kidney disease."
+                        },
+                        {
+                            "name": "Shock "
+                        }
+                    ]
+                },
+                {
+                    "name": "Antiphospholipid Syndrome",
+                    "children": [
+                        {
+                            "name": "Blood clots in your legs. "
+                        },
+                        {
+                            "name": "Repeated miscarriages or stillbirths."
+                        },
+                        {
+                            "name": "Stroke."
+                        },
+                        {
+                            "name": "Transient ischemic attack."
+                        },
+                        {
+                            "name": "Rash."
+                        }
+                    ]
+                },
+                {
+                    "name": "Ciliopathy",
+                    "children": [
+                        {
+                            "name": "Chemosensation abnormalities, typically via ciliated epithelial cellular dysfunction."
+                        },
+                        {
+                            "name": "Defective thermosensation or mechanosensation, often via ciliated epithelial cellular dysfunction."
+                        },
+                        {
+                            "name": "Cellular motility dysfunction."
+                        },
+                        {
+                            "name": "Issues with displacement of extracellular fluid."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gastroenterology",
+            "children": [
+                {
+                    "name": "Achalasia",
+                    "children": [
+                        {
+                            "name": "Difficulty swallowing food."
+                        },
+                        {
+                            "name": "Difficulty swallowing both solid and liquid food."
+                        },
+                        {
+                            "name": "Regurgitation of food that is retained in the esophagus. "
+                        },
+                        {
+                            "name": "Chest discomfort from esophageal dilation and/or retained food."
+                        },
+                        {
+                            "name": "Sharp chest pain usually of unclear cause."
+                        }
+                    ]
+                },
+                {
+                    "name": "Diverticular Disease",
+                    "children": [
+                        {
+                            "name": "Pain, which may be constant and persist for several days."
+                        },
+                        {
+                            "name": "Nausea and vomiting."
+                        },
+                        {
+                            "name": "Fever."
+                        },
+                        {
+                            "name": "Abdominal tenderness."
+                        },
+                        {
+                            "name": "Constipation or, less commonly, diarrhea."
+                        }
+                    ]
+                },
+                {
+                    "name": "Esophagitis",
+                    "children": [
+                        {
+                            "name": "Difficult swallowing."
+                        },
+                        {
+                            "name": "Painful swallowing."
+                        },
+                        {
+                            "name": "Chest pain, particularly behind the breastbone, that occurs with eating."
+                        },
+                        {
+                            "name": "Swallowed food becoming stuck in the esophagus "
+                        },
+                        {
+                            "name": "Heartburn."
+                        },
+                        {
+                            "name": "Acid regurgitation."
+                        }
+                    ]
+                },
+                {
+                    "name": "Gastroparesis",
+                    "children": [
+                        {
+                            "name": "Heartburn or gastroesophageal reflux "
+                        },
+                        {
+                            "name": "Nausea."
+                        },
+                        {
+                            "name": "Vomiting undigested food."
+                        },
+                        {
+                            "name": "Early satiety "
+                        },
+                        {
+                            "name": "Abdominal bloating "
+                        },
+                        {
+                            "name": "Poor appetite and weight loss."
+                        },
+                        {
+                            "name": "Poor blood sugar control."
+                        }
+                    ]
+                },
+                {
+                    "name": "Celiac Disease",
+                    "children": [
+                        {
+                            "name": "Diarrhea."
+                        },
+                        {
+                            "name": "Bloating."
+                        },
+                        {
+                            "name": "Gas. "
+                        },
+                        {
+                            "name": "Fatigue. "
+                        },
+                        {
+                            "name": "Weight Loss. "
+                        },
+                        {
+                            "name": "Iron-Deficiency Anemia."
+                        },
+                        {
+                            "name": "Constipation. "
+                        },
+                        {
+                            "name": "Depression."
+                        }
+                    ]
+                },
+                {
+                    "name": "Crohn\u2019s Disease",
+                    "children": [
+                        {
+                            "name": "Diarrhea"
+                        },
+                        {
+                            "name": "Fever"
+                        },
+                        {
+                            "name": "Fatigue"
+                        },
+                        {
+                            "name": "Abdominal pain and cramping"
+                        },
+                        {
+                            "name": "Blood in your stool"
+                        },
+                        {
+                            "name": "Mouth sores"
+                        },
+                        {
+                            "name": "Reduced appetite and weight loss"
+                        },
+                        {
+                            "name": "Pain or drainage near or around the anus due to inflammation from a tunnel into the skin "
+                        }
+                    ]
+                },
+                {
+                    "name": "Gastroesophageal reflux disease",
+                    "children": [
+                        {
+                            "name": "A burning sensation in your chest, usually after eating, which might be worse at night."
+                        },
+                        {
+                            "name": "Chest pain."
+                        },
+                        {
+                            "name": "Difficulty swallowing."
+                        },
+                        {
+                            "name": "Regurgitation of food or sour liquid."
+                        },
+                        {
+                            "name": "Sensation of a lump in your throat."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
