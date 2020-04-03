@@ -14,13 +14,13 @@ The main components of the system include the Control Panel, Timeline and the Te
 
 The Control Panel contains the patient related information name, age and gender along with document filters for binning time interval and filter collections.
 
-![](/images/image2.png)![](/images/image1.png)![](/images/image3.png)
+![](/Images/image2.png)![](/Images/image1.png)![](/Images/image3.png)
 
 > Fig 1. Timeline view with three levels of detail - Category, Diseases and Symptoms
 
 Filter collections are a set of related concepts that are applicable to a shared meaning that come under a broader umbrella. \[1\] These are basically physician defined filters to get a clear view of the clinical content. These filters help populate the timeline. The timeline provides an overview in a time-oriented manner of the selected filter collections.
 
-![](/images/image6.png)
+![](/Images/image6.png)
 
 > Fig 2. Original system’s interface
 
@@ -32,7 +32,7 @@ This also populates the Text Panel which contains the actual snippet of the pass
 
 Our interface contains the **Control Panel** which contains the patient demographics along the filter collections. These filter collections are the broader umbrella of diseases. The **Timeline Panel** initially displays the frequency of diseases occurred in each of these filter collections. This generates a violin timeline visualization. Moreover, the interface contains a sorted view of all the filter collections. This can be effectively used by doctors(users of this interface over here) to get a high level view of all the diseases that the patient encountered with the specific timeframe. This just gives an overview of all the diseases. So, to get an in depth view for further analysis between the disease and the symptoms the user can select one of these diseases which in turn generates another violin timeline visualization of the frequencies of symptoms. Along with the sorted view of the diseases is displayed. Here the user can see the actual symptoms that caused the disease in a specific timeframe. This visualization will be helpful to doctors as they can relate the symptoms observed by the patients to the symptoms seen in the visualization and detect any potential disease. This will guide the doctors towards prescribing medicines and even starting a new treatment.
 
-![](/images/image5.png)
+![](/Images/image5.png)
 
 > Figure 3. Implemented system interface
 
@@ -44,7 +44,7 @@ The **Text Panel** displays the patient's medical records with the symptoms and 
 
 The implementation system takes into account the filter collections as a broader umbrella of diseases.
 
-![](/images/image4.png)
+![](/Images/image4.png)
 
 > Fig 4. Tree visualization
 
